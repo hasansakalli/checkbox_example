@@ -28,6 +28,7 @@ body {
 }
 
 .box {
+    opacity: 0;
     width: 20px;
     height: 70vh;
     padding: 0.5rem;
